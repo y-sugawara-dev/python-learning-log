@@ -1,2 +1,2 @@
 # python-learning-log
-Learning Python fundamentals with PyQ and practice outputs
+PyQを使ったPython基礎学習と、テーマ変換アウトプットの記録用リポジトリ
