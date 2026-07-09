@@ -3,7 +3,7 @@
 # 使用するライブラリをインポート
 import csv
 
-with open("python-learning-log/input/foods.csv", "r", encoding="utf-8") as f:
+with open("input/foods.csv", "r", encoding="utf-8") as f:
     lines = f.readlines()
     for n, line in enumerate(lines):
         print(f"{n}:{line.rstrip()}")
